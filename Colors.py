@@ -1,0 +1,7 @@
+wall_color = (38, 38, 38)
+explored_color = (96, 153, 45)
+free_tile_color = (255, 255, 255)
+path_color = (29, 47, 111)
+all_neighbors_explored_color = (163, 59, 32)
+gui_color = (240, 201, 135)
+backround_color = (50, 50, 50)
