@@ -9,7 +9,13 @@ This program was created to help me understand the pathfinding algorithm A*.
 The program is written for Python 3.8
 
 Required libraries:
-- coming soon
+- pygame
+- numpy
+
+To install these libraries use the following command:
+```
+pip install pygame numpy
+```
 
 ### Running ###
 
